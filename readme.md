@@ -9,6 +9,7 @@ It uses a **parent orchestrator agent** that coordinates two specialized child a
 The main agent processes natural language queries, extracts the place, determines what the user needs, and runs both agents **in parallel** using `ThreadPoolExecutor` for faster responses.
 
 ## **📸 Reference Project Image**
+<img width="1913" height="1028" alt="image" src="https://github.com/user-attachments/assets/a3612c14-2993-40b3-8461-9ea104d649eb" />
 
 
 ---
